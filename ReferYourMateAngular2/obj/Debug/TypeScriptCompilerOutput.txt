@@ -1,120 +1,16 @@
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.module.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\main.js.map
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js
-c:\users\admin\documents\visual studio 2015\Projects\ReferYourMateAngular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.module.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.module.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\main.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\main.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.spec.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.module.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.module.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\main.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\main.js.map
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.spec.js
+C:\Users\Admin\Source\Repos\Angular2\ReferYourMateAngular2\src\app\app.component.spec.js.map
